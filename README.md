@@ -4,7 +4,7 @@
 
 A simple tool to organize your work day.
 
-![image](https://user-images.githubusercontent.com/48780301/216526199-483c86ce-bd7d-456b-86d6-3119f4e8d0b0.png)
+![image](https://user-images.githubusercontent.com/48780301/224469828-c46c26cb-6a9b-43cf-93a1-62d03eebf404.png)
 
 ## Table of Contents
 
